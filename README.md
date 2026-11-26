@@ -1,6 +1,4 @@
-## Hi there, I'm Tiago 👋
-
-# Tiago Rocha
+# Hi there, I'm Tiago 👋
 
 Final-year Informatics and Computing Engineering student at FEUP, Porto.
 
